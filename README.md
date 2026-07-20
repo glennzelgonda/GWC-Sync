@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/gwc_logo.png" alt="GWC Sync Logo" width="150"/>
+  <img src="assets/images/gwc_logo.png" alt="GWC Sync Logo" width="300"/>
 </p>
 
 # GWC Sync
@@ -168,9 +168,9 @@ This app requires a connected Firebase project — it will not run against local
 
 | Name | Role / Contribution |
 |---|---|
-| _[Member 1 name]_ | _[e.g. UI design, login & auth flow]_ |
-| _[Member 2 name]_ | _[e.g. Firestore data layer, dashboard]_ |
-| _[Member 3 name]_ | _[e.g. inventory & stock history screens]_ |
+| _[Glennzel Gonda]_ | _Full-stack development — Flutter app, Firebase integration, Firestore data layer, all screens_ |
+| _[Ralph Ilagan]_ | _[	UI design support, Documentation_] |
+| _[Poul Aranas]_ | _[Documentation]_ |
 | _[Member 4 name]_ | _[e.g. testing, documentation, presentation]_ |
 
 ---
@@ -179,5 +179,4 @@ This app requires a connected Firebase project — it will not run against local
 
 - **Course:** IT 331
 - **Project:** Mobile Application — Flutter Front-End Development
-- **Presentation dates:** July 21–23, 2026
 
