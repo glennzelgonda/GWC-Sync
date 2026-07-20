@@ -169,9 +169,8 @@ This app requires a connected Firebase project — it will not run against local
 | Name | Role / Contribution |
 |---|---|
 | _[Glennzel Gonda]_ | _Full-stack development — Flutter app, Firebase integration, Firestore data layer, all screens_ |
-| _[Ralph Ilagan]_ | _[	UI design support, Documentation_] |
-| _[Poul Aranas]_ | _[Documentation]_ |
-| _[Member 4 name]_ | _[e.g. testing, documentation, presentation]_ |
+| _[Ralph Ilagan]_ | _	UI design support, Documentation_ |
+| _[Poul Aranas]_ | _Documentation_ |
 
 ---
 
