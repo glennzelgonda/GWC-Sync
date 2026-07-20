@@ -1,0 +1,47 @@
+# Flutter/Dart build & tooling artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+android/local.properties
+android/**/gradle-wrapper.jar
+android/key.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS/macOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+**/ios/**/GeneratedPluginRegistrant.*
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Firebase — do NOT commit service account / admin credentials
+# (client config in lib/firebase_options.dart and android/app/google-services.json
+# are safe to commit — they are not secret keys, security is enforced by
+# Firestore Rules and App Check, not by hiding them)
+**/serviceAccountKey.json
+**/*-firebase-adminsdk-*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
