@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/gwc_logo.png" alt="GWC Sync Logo" width="200"/>
+  <img src="assets/images/gwc_logor.png" alt="GWC Sync Logo" width="200"/>
 </p>
 
 # GWC Sync
